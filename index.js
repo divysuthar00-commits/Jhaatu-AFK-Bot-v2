@@ -8,7 +8,7 @@
   "server": {
     "ip": "craftypeaks195.mcsh.gg",
     "port": 19132,
-    "version": "1.26.52"
+    "version": "1.26.1"
   },
   "position": {
     "enabled": true,
